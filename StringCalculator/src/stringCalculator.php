@@ -1,7 +1,7 @@
 <?php
 namespace App;
 
-final class stringCalculator
+final class StringCalculator
 {
     public function add($test){
         $test = 0;

@@ -2,7 +2,7 @@
 use PHPUnit\Framework\TestCase;
 use App\stringCalculator;
 
-final class stringCalculatorTest extends 
+final class StringCalculatorTest extends 
 TestCase
 {  
     
