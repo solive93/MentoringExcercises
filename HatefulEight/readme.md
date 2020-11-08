@@ -25,11 +25,11 @@ as a parameter and and swap all the vowels for the given vowel).
 
 6. Write a function that outputs the highest number of a given array
 
-8. 3x3 array -> write a function that locates the "X" in a given grid full of "O"s.
+7. 3x3 array -> write a function that locates the "X" in a given grid full of "O"s.
 [
   ["O", "O", "O"],
   ["O", "X", "O"],  -> Position
   ["O", "O", "O"]
 ]
 
-7. Create a valid password that contains at least 1 number, 1 capital letter and 1 "!"
+8. Create a valid password that contains at least 1 number, 1 capital letter and 1 "!"
