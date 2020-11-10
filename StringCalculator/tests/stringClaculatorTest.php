@@ -13,4 +13,13 @@ public function test_string_empty ()
         $result = $calculadora->add($test);
         $this->assertEquals(0,$result);
     }
+
+public function test_return_same_number()
+    {
+        $test = "2";
+        $calculadora = new stringCalculator();
+        $result = $calculadora->add($test);
+        $this->assertEquals(2,$result);
+
+    }
 }
