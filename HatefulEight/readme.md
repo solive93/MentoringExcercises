@@ -1,10 +1,10 @@
 # HatefulEight: 8 mini-exercises
 
-### The Hateful Eight: 8 mini-exercises 
+### These pseudo-kata is a collection of 8 beginner-level coding exercises (named HatefulEight after Tarantino's movie) 
 
 1. write a function sum() that sums all the numbers passed as argument.
 sum([1]) -> will return 1
-sum([2, 3]) -> will return 5
+sum([2,3]) -> will return 5
 sum([1,1,1,1]) -> will output 4
 
 2. write a function evenOrOdd() that returns wether the number passed in is "even" or "odd".
@@ -14,9 +14,9 @@ evenOrOdd(17) -> returns "odd"
 3. write a function that reverses a string.
 reverse("amor") -> "roma"
 
-4. write a function that swaps all vowels for 'e'. (Allow the function to take a vowel 
+4. Write a function to take a vowel 
 as a parameter and and swap all the vowels for the given vowel).
-"hola ke ase" -> "hele ke es e"
+"hola ke ase" , "e"-> "hele ke es e"
 "hola ke ase", "i" -> "hili ki isi"
 
 5. write a program that checks wether a word is a palindrome or not.
