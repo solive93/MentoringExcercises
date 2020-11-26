@@ -11,7 +11,6 @@
 3. Write a function that returns the longest string in a given array
   input: ['cat', 'pasta', 'asparragus'] -> output: 'asparragus'
 
-
 4. Write a function that removes repeated elements in a given array
   input: [1, 1, 1, 'pan'] -> [1, 'pan']
 
