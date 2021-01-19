@@ -26,14 +26,6 @@ final class JacksonFive
 
     public function getLongestWord(array $input) :string
     {
-        $longestWord = '';
-        foreach($input as $word)
-        {
-            if(strlen($longestWord) < strlen($word))
-            {
-                $longestWord = $word;
-            }
-        }
-        return $longestWord;
+        
     }
 }
